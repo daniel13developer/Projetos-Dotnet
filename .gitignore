@@ -3,8 +3,3 @@ secret.txt
 
 # igonar configuração VSCode
 .vscode
-
-
-# Ignorar a pasta temp
-bin/
-obj/
