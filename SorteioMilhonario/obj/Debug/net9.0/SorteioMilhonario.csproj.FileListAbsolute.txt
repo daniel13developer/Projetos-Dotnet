@@ -1,0 +1,15 @@
+C:\Users\danie\Workspace\Projetos-publicados\SorteioMilhonario\bin\Debug\net9.0\SorteioMilhonario.exe
+C:\Users\danie\Workspace\Projetos-publicados\SorteioMilhonario\bin\Debug\net9.0\SorteioMilhonario.deps.json
+C:\Users\danie\Workspace\Projetos-publicados\SorteioMilhonario\bin\Debug\net9.0\SorteioMilhonario.runtimeconfig.json
+C:\Users\danie\Workspace\Projetos-publicados\SorteioMilhonario\bin\Debug\net9.0\SorteioMilhonario.dll
+C:\Users\danie\Workspace\Projetos-publicados\SorteioMilhonario\bin\Debug\net9.0\SorteioMilhonario.pdb
+C:\Users\danie\Workspace\Projetos-publicados\SorteioMilhonario\obj\Debug\net9.0\SorteioMilhonario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Workspace\Projetos-publicados\SorteioMilhonario\obj\Debug\net9.0\SorteioMilhonario.AssemblyInfoInputs.cache
+C:\Users\danie\Workspace\Projetos-publicados\SorteioMilhonario\obj\Debug\net9.0\SorteioMilhonario.AssemblyInfo.cs
+C:\Users\danie\Workspace\Projetos-publicados\SorteioMilhonario\obj\Debug\net9.0\SorteioMilhonario.csproj.CoreCompileInputs.cache
+C:\Users\danie\Workspace\Projetos-publicados\SorteioMilhonario\obj\Debug\net9.0\SorteioMilhonario.sourcelink.json
+C:\Users\danie\Workspace\Projetos-publicados\SorteioMilhonario\obj\Debug\net9.0\SorteioMilhonario.dll
+C:\Users\danie\Workspace\Projetos-publicados\SorteioMilhonario\obj\Debug\net9.0\refint\SorteioMilhonario.dll
+C:\Users\danie\Workspace\Projetos-publicados\SorteioMilhonario\obj\Debug\net9.0\SorteioMilhonario.pdb
+C:\Users\danie\Workspace\Projetos-publicados\SorteioMilhonario\obj\Debug\net9.0\SorteioMilhonario.genruntimeconfig.cache
+C:\Users\danie\Workspace\Projetos-publicados\SorteioMilhonario\obj\Debug\net9.0\ref\SorteioMilhonario.dll
