@@ -19,14 +19,13 @@ class ProgamaSorteioMilhonario
         Console.WriteLine("**                Bilhte da sorte!                   **");
         Console.WriteLine("**   Soterio de " + quatidadeNumeros + " numeros                            **");
         Console.WriteLine("**   De 1 a " + totalDeNumeros + "                                       **");
-        Console.Write("**   Números sorteados:   ");
-        
-        //Console.Write("**   ");   
+        Console.Write("**   Números sorteados:   ");        
+          
         foreach (int numero in numerosSorteados)
         {
             Console.Write(numero + " ");
         }
-        //Console.WriteLine("                             **");   
+           
         Console.WriteLine("         **");     
         Console.WriteLine("*******************************************************");
         
