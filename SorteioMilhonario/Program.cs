@@ -7,17 +7,20 @@ class ProgamaSorteioMilhonario
     {
         // iniciando varivel do sorteio
         int quatidadeNumeros = 6;
-        int totalDeNumeros = 60;  
+        int totalDeNumeros = 60; 
+        int totalBilhetes = 3;
 
         // Gerar os numeros soltedos
-        List<int> numerosSorteados = SortearNumeros(quatidadeNumeros, totalDeNumeros);
+        //List<int> numerosSorteados = SortearNumeros(quatidadeNumeros, totalDeNumeros);
 
         //exibir o resutado do sorteio
-        MostrarResultado(numerosSorteados, quatidadeNumeros, totalDeNumeros);                 
+        //MostrarResultado(numerosSorteados, quatidadeNumeros, totalDeNumeros);  
+
+        SortearBilhetes(totalBilhetes, quatidadeNumeros, totalDeNumeros);             
         
     }
 
-    static void MostrarResultado(List<int> Listassorteada, int quantidade, int maxNumero)
+    static void MostrarResultado(List<int> ListaNumerosSorteados, int quantidade, int maxNumero)
     {
         Console.WriteLine("Gerar bilhete:");       
         
@@ -27,13 +30,27 @@ class ProgamaSorteioMilhonario
         Console.WriteLine("**   De 1 a " + maxNumero + "                                       **");
         Console.Write("**   Números sorteados:   ");        
           
-        foreach (int numero in Listassorteada)
+        foreach (int numero in ListaNumerosSorteados)
         {
             Console.Write(numero + " ");
         }
 
         Console.WriteLine("         **");     
         Console.WriteLine("*******************************************************");
+
+    }
+
+    static void SortearBilhetes(int numeroBilhetes, int quatidadeNumeros, int totalDeNumeros)
+    {
+        int quantsorteios = 0;
+
+        while(quantsorteios < numeroBilhetes)
+        {            
+            List<int> numerosSorteados = SortearNumeros(quatidadeNumeros, totalDeNumeros);
+            MostrarResultado(numerosSorteados, quatidadeNumeros, totalDeNumeros);
+            quantsorteios ++;
+
+        }
 
     }
     
