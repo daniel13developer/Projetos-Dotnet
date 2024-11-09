@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SorteioMilhonario")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f29c9e0791529d173e6d63dd35b0ed3deb8e04d2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e58d6d48d206995b673f1eb2519a3e4a866bfe68")]
 [assembly: System.Reflection.AssemblyProductAttribute("SorteioMilhonario")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SorteioMilhonario")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

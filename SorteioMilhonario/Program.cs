@@ -11,24 +11,30 @@ class ProgamaSorteioMilhonario
 
         // Gerar os numeros soltedos
         List<int> numerosSorteados = SortearNumeros(quatidadeNumeros, totalDeNumeros);
-                  
+
         //exibir o resutado do sorteio
+        MostrarResultado(numerosSorteados, quatidadeNumeros, totalDeNumeros);                 
+        
+    }
+
+    static void MostrarResultado(List<int> Listassorteada, int quantidade, int maxNumero)
+    {
         Console.WriteLine("Gerar bilhete:");       
         
         Console.WriteLine("*******************************************************");
         Console.WriteLine("**                Bilhte da sorte!                   **");
-        Console.WriteLine("**   Soterio de " + quatidadeNumeros + " numeros                            **");
-        Console.WriteLine("**   De 1 a " + totalDeNumeros + "                                       **");
+        Console.WriteLine("**   Soterio de " + quantidade + " numeros                            **");
+        Console.WriteLine("**   De 1 a " + maxNumero + "                                       **");
         Console.Write("**   Números sorteados:   ");        
           
-        foreach (int numero in numerosSorteados)
+        foreach (int numero in Listassorteada)
         {
             Console.Write(numero + " ");
         }
-           
+
         Console.WriteLine("         **");     
         Console.WriteLine("*******************************************************");
-        
+
     }
     
     static List<int> SortearNumeros(int quantidade, int NumeroMax)
