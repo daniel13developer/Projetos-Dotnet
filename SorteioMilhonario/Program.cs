@@ -10,12 +10,6 @@ class ProgamaSorteioMilhonario
         int totalDeNumeros = 60; 
         int totalBilhetes = 3;
 
-        // Gerar os numeros soltedos
-        //List<int> numerosSorteados = SortearNumeros(quatidadeNumeros, totalDeNumeros);
-
-        //exibir o resutado do sorteio
-        //MostrarResultado(numerosSorteados, quatidadeNumeros, totalDeNumeros);  
-
         SortearBilhetes(totalBilhetes, quatidadeNumeros, totalDeNumeros);             
         
     }
