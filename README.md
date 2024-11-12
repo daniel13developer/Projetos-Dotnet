@@ -1,8 +1,9 @@
-# Projeto Realizado em .NET 🚀
-Esta aplicação foi desenvolvida para estudo e praticas de desenvolvimento de novas tecnoligias e aplicações em .NET 📚
+# Esta repositório foi criado para desenvolver projetos e aplicações utilizando o Framework .NET da Microsoft.
 
+## Aplicação foi desenvolvida na linguagem CSharp (C#) para estudo e práticas de tecnologias e aplicações em .NET.📚
 
-- Criado uma solução para sorter seis números aleatórios e exibir o resultado na tela. 🤞
+### 📌Projeto Sorteio milhoário.
+- Criado uma solução para sorter seis números aleatórios e exibir o resultado na tela.
 
 - Utilizado função randomica para gerar números aleatórios com exibição de reseultado na tela.💻 
 
