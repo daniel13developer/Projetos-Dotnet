@@ -8,3 +8,9 @@
 /SorteioMilhonario/obj/Debug/net9.0
 /SorteioMilhonario/Debug/net9.0
 
+# pasta debug
+/obj
+/obj/Debug
+/obj/Debug/net9.0
+
+
