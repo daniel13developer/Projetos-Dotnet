@@ -15,7 +15,7 @@ class ProgamaSorteioMilhonario
             {   
                 int totalBilhetes = 0;
 
-                Console.Clear();
+                //Console.Clear();
                 Console.WriteLine("");
                 
                 Console.WriteLine("*********************************************************");
@@ -69,7 +69,7 @@ class ProgamaSorteioMilhonario
                 if (!exit)
                 {
                     Console.WriteLine("\nPressione qualquer tecla para voltar ao menu...");
-                    Console.ReadKey();
+                    //Console.ReadKey();
                 }
                 
             }     
